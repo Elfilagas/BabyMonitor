@@ -1,0 +1,14 @@
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\bin\Debug\Sender.exe.config
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\bin\Debug\Sender.exe
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\bin\Debug\Sender.pdb
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\obj\Debug\Sender.exe
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\obj\Debug\Sender.pdb
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\bin\Debug\AForge.dll
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\bin\Debug\AForge.Video.dll
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\bin\Debug\AForge.xml
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\bin\Debug\AForge.Video.xml
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\obj\Debug\Sender.csproj.AssemblyReference.cache
+C:\Users\kapustin_nn\source\repos\Webcam\Sender\obj\Debug\Sender.csproj.CopyComplete

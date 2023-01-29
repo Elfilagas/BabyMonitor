@@ -1,0 +1,10 @@
+C:\Users\kapustin_nn\source\repos\Webcam\Receiver\bin\Debug\Receiver.exe.config
+C:\Users\kapustin_nn\source\repos\Webcam\Receiver\bin\Debug\Receiver.exe
+C:\Users\kapustin_nn\source\repos\Webcam\Receiver\bin\Debug\Receiver.pdb
+C:\Users\kapustin_nn\source\repos\Webcam\Receiver\obj\Debug\Receiver.csproj.AssemblyReference.cache
+C:\Users\kapustin_nn\source\repos\Webcam\Receiver\obj\Debug\Receiver.Form1.resources
+C:\Users\kapustin_nn\source\repos\Webcam\Receiver\obj\Debug\Receiver.Properties.Resources.resources
+C:\Users\kapustin_nn\source\repos\Webcam\Receiver\obj\Debug\Receiver.csproj.GenerateResource.cache
+C:\Users\kapustin_nn\source\repos\Webcam\Receiver\obj\Debug\Receiver.csproj.CoreCompileInputs.cache
+C:\Users\kapustin_nn\source\repos\Webcam\Receiver\obj\Debug\Receiver.exe
+C:\Users\kapustin_nn\source\repos\Webcam\Receiver\obj\Debug\Receiver.pdb
